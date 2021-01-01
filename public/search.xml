@@ -8,7 +8,7 @@
       <link href="2021/01/01/test-file/"/>
       <url>2021/01/01/test-file/</url>
       
-        <content type="html"><![CDATA[<p>Consider a probability space (, , )</p><img src="/2021/01/01/test-file/Ferguson.jpg" class="">]]></content>
+        <content type="html"><![CDATA[<p>Consider a probability space <span class="math inline">\((\Omega, \mathscr{F}, \mathbb{P})\)</span></p><img src="/2021/01/01/test-file/Ferguson.jpg" class="">]]></content>
       
       
       
