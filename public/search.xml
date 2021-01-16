@@ -4,11 +4,40 @@
   
     
     <entry>
-      <title>Stein</title>
+      <title>转载： 如何写出糟糕的数学</title>
+      <link href="2021/01/16/serre-write-math/"/>
+      <url>2021/01/16/serre-write-math/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>这是我很多年前在油管上看到的视频，Serre老爷爷教数学工作者如何写出“糟糕”的文章，分享在这里：</p><div class="video-container"><iframe src="https://www.youtube.com/embed/ECQyFzzBHlo" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Math </category>
+          
+          <category> General </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 写作 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Stein&#39;s Method: Overview</title>
       <link href="2021/01/16/stein-1/"/>
       <url>2021/01/16/stein-1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Consider <span class="math inline">\((\Omega, \mathscr{F}, \mathbb{P})\)</span></p>]]></content>
       
       
       <categories>
