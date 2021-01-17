@@ -37,7 +37,7 @@
       <link href="2021/01/16/stein-1/"/>
       <url>2021/01/16/stein-1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>Consider <span class="math inline">\((\Omega, \mathscr{F}, \mathbb{P})\)</span> &gt; this is a quote</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>This blog post provides an overview of the Stein's method which was first introduced in Stein's seminal paper<sup id="fnref:1"><a href="#fn:1" rel="footnote"><span class="hint--top hint--error hint--medium hint--rounded hint--bounce" aria-label="Stein, C. (1972). *A bound for the error in the normal approximation to the distribution of a sum of dependent random variables*. Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability, Volume 2. University of California Press. pp. 583–602.">[1]</span></a></sup> published in 1972.</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;">Stein, C. (1972). <em>A bound for the error in the normal approximation to the distribution of a sum of dependent random variables</em>. Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability, Volume 2. University of California Press. pp. 583–602.<a href="#fnref:1" rev="footnote"> ↩︎</a></span></li></ol></div></div>]]></content>
       
       
       <categories>
